@@ -1,8 +1,6 @@
 # Crud
 sistema de cadastro
 
-# Crud-c-
-Sistema de cadastro
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
